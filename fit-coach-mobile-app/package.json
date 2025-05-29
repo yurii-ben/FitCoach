@@ -1,0 +1,40 @@
+{
+  "name": "fitcoach",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "expo": "~53.0.0",
+    "expo-router": "~5.0.7",
+    "expo-status-bar": "~2.2.3",
+    "metro": "^0.82.4",
+    "metro-config": "^0.82.4",
+    "metro-core": "^0.82.4",
+    "metro-resolver": "^0.82.4",
+    "metro-runtime": "^0.82.4",
+    "metro-source-map": "^0.82.4",
+    "react": "^19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "^0.79.2",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "^5.4.0",
+    "react-native-screens": "~4.10.0",
+    "react-native-web": "^0.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/expo__vector-icons": "^9.0.1",
+    "@types/react": "~19.0.10",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.1.3"
+  }
+}
